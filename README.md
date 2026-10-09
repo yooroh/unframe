@@ -10,16 +10,6 @@ A tiny tool that pulls a GIF apart. Open a GIF, flip through it one frame at a t
 
 The frame counter, size and frame delay are shown under the preview.
 
-## Run it
-
-**In a browser:** open `index.html`. That's it, nothing to install.
-
-**As a Windows app:** grab `unframe.exe` from the Releases page and run it.
-
-## Build the exe yourself
-
-You need Python on Windows. Put `index.html`, `app.py`, `unframe.ico` and `build.bat` in one folder and double-click `build.bat`. The exe ends up in `dist/unframe.exe`.
-
 ## Notes
 
 - GIF files only.
@@ -28,4 +18,4 @@ You need Python on Windows. Put `index.html`, `app.py`, `unframe.ico` and `build
 
 ## Credits
 
-Made with credit to euro: https://github.com/yooroh
+Made by me (euro, https://github.com/yooroh) more of a personal project but figured I'd add it to my stack for those who want to use
